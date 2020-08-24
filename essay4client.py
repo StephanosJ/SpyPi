@@ -1,4 +1,3 @@
-#source https://raspberrypi.stackexchange.com/questions/27278/delay-problem-in-audio-video-when-multiplex-in-one-through-python?rq=1#comment34224_27278
 import socket
 
 #Defines the SpyPi server
